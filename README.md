@@ -12,15 +12,15 @@
 > * https://github.com/Mans-Mans/api_final_yatube
 > * cd api_final_yatube
 > 2. Cоздать и активировать виртуальное окружение:
-> * python -m venv env
-> * source env/bin/activate
+> * python -m venv venv
+> * source venv/bin/activate
 > 3. Установить зависимости из файла requirements.txt:
-> * python3 -m pip install --upgrade pip
+> * python -m pip install --upgrade pip
 > * pip install -r requirements.txt
 > 4. Выполнить миграции:
-> * python3 manage.py migrate
+> * python manage.py migrate
 > 5. Запустить проект:
-> * python3 manage.py runserver
+> * python manage.py runserver
 
 # Примеры
 ##### http://127.0.0.1:8000/api/posts/ - запрос всех постов
