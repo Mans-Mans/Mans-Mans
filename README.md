@@ -1,28 +1,43 @@
-# Описание
-**Этот проект позволяет людям:**
-* Писать посты.
-* Доступна возможность загружать медиафайлы. Выбирать для постов группы.
-* Комментировать посты.
-* Подписываться на авторов.
-* Отслеживать свои подписки.
-
-# Установка
-> ### **Как запустить проект:** 
-> 1. Клонировать репозиторий и перейти в него в командной строке:
-> * https://github.com/Mans-Mans/api_final_yatube
-> * cd api_final_yatube
-> 2. Cоздать и активировать виртуальное окружение:
-> * python -m venv venv
-> * source venv/bin/activate
-> 3. Установить зависимости из файла requirements.txt:
-> * python -m pip install --upgrade pip
-> * pip install -r requirements.txt
-> 4. Выполнить миграции:
-> * python manage.py migrate
-> 5. Запустить проект:
-> * python manage.py runserver
-
-# Примеры
-##### http://127.0.0.1:8000/api/posts/ - запрос всех постов
-##### http://127.0.0.1:8000/api/posts/4/ - запрос 4 поста
-##### http://127.0.0.1:8000/api/groups/ - запрос всех групп
+<h1 align="center">Привет! Меня зовут Мансур 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h6> 
+  В данный момент нахожусь в поиске работы по специальности Python-разработчик
+  Знакомство с Python начилось в университете, а затем отучился на курсе Python-разработчик от Яндекс практикума
+</h6>
+<br />
+<h3>
+Реализованные проекты в рамках обучения:
+</h3>
+<li>
+  <a href="https://github.com/Mans-Mans/foodgram-project-react">Фудграм</a>
+  - сервис для размещения рецептов
+</li>
+<li>
+  <a href="https://github.com/Mans-Mans/kittygram_final">Киттиграм</a>
+  - сервис для размещения котиков  
+</li>
+<li>
+  <a href="https://github.com/Mans-Mans/taski-docker">Таски</a>
+  - сервис для размещения задач
+</li>
+<li>
+  <a href="https://github.com/Mans-Mans/homework_bot">Телеграмм бот</a>
+  - бот для автоматического оповещения статуса домашней работы
+</li>
+<li>
+  <a href="https://github.com/Mans-Mans/hw05_final">Ятуб</a>
+  - социальная сеть, блог
+</li>
+<li>
+  <a href="https://github.com/Mans-Mans/hw_python_oop">Фитнес трекер</a>
+  - готовый модуль фитнес трекера
+</li>
+<br />
+<h3>
+Мои контакты:
+</h3>
+<li>Телеграмм - @Mans66ur</li>
+<li>
+  <a href="https://vk.com/mans_66">Вконтакте</a>
+</li>
